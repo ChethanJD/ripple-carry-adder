@@ -2,7 +2,6 @@
 
 // Testbench : tb_ripple_carry_adder
 // Project   : 4-bit Ripple Carry Adder
-// Author    : Your Name | ECE, Presidency University, Bangalore
 
 module tb_ripple_carry_adder;
 
